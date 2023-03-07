@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "MopXTSLGfFVVclg8kt/89djxdW1L/CKPOymFvPcSJWDfIPpKlNLDPkteqhuWZ3SmEd6OASxN9m37LqfNCikypA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egzamin\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egzamin\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Egzamin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Egzamin\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Egzamin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Egzamin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Wykryta wersja pakietu jest poza ograniczeniami zależności: element MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 wymaga wersji MediatR (>= 11.0.0 && < 12.0.0), ale rozpoznano wersję MediatR 12.0.1.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
